@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./doctorisseraphic08bona_0005.png"; bbox 0 0 2133 3317; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 336 1527 1803 1789">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 336 1527 1803 1789">
+     <span class='ocr_line' id='line_1_1' title="bbox 555 1527 1585 1597; baseline 0.002 -16"><span class='ocrx_word' id='word_1_1' title='bbox 555 1527 825 1597; x_wconf 63' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_2' title='bbox 855 1527 926 1597; x_wconf 78' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 950 1527 1049 1583; x_wconf 73' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 1080 1527 1321 1583; x_wconf 70' lang='lat' dir='ltr'>internet</span> <span class='ocrx_word' id='word_1_5' title='bbox 1345 1527 1585 1583; x_wconf 74' lang='lat' dir='ltr'><strong>Archive</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 663 1623 1471 1693; baseline 0 -16"><span class='ocrx_word' id='word_1_6' title='bbox 663 1623 710 1677; x_wconf 79' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 738 1624 888 1679; x_wconf 81' lang='grc'>2010</span> <span class='ocrx_word' id='word_1_8' title='bbox 913 1623 1039 1679; x_wconf 73' lang='lat' dir='ltr'><strong>with</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1066 1623 1302 1693; x_wconf 71' lang='lat' dir='ltr'>fundinq</span> <span class='ocrx_word' id='word_1_10' title='bbox 1329 1623 1471 1679; x_wconf 76' lang='lat' dir='ltr'>from</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 336 1718 1803 1789; baseline 0.001 -16"><span class='ocrx_word' id='word_1_11' title='bbox 336 1719 554 1775; x_wconf 78' lang='lat' dir='ltr'>Boston</span> <span class='ocrx_word' id='word_1_12' title='bbox 586 1719 806 1789; x_wconf 70' lang='lat' dir='ltr'>Library</span> <span class='ocrx_word' id='word_1_13' title='bbox 833 1718 1203 1775; x_wconf 79' lang='lat' dir='ltr'>Consortium</span> <span class='ocrx_word' id='word_1_14' title='bbox 1236 1719 1500 1775; x_wconf 67' lang='lat' dir='ltr'>member</span> <span class='ocrx_word' id='word_1_15' title='bbox 1529 1719 1803 1775; x_wconf 70' lang='lat' dir='ltr'>Libraries</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 190 3086 1948 3157">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 190 3086 1948 3157">
+     <span class='ocr_line' id='line_1_4' title="bbox 190 3086 1948 3157; baseline 0.001 -17"><span class='ocrx_word' id='word_1_16' title='bbox 190 3086 1948 3157; x_wconf 58' lang='lat' dir='ltr'>http:llwwwarchivaorqldetailsldoctorisseraphicOSbona</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
